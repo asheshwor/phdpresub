@@ -1,10 +1,10 @@
-##Presentation for Climate Change and Human Mobility Workshop - 2015
+##PhD pre-submission presentation
 
-This repository contains the presentation slides for our presentation at Climate Change and Human Mobility Workshop - 2015 to be held on from 26 March to 27 March at the Fenner School of Environment and Society ANU, Canberra.
+This repository contains the presentation slides for my PhD pre-submission presentation planned for October 2015.
 
-View the presentation at [http://asheshwor.github.io/anu2015](http://asheshwor.github.io/anu2015/#/)
+View the presentation at [http://asheshwor.github.io/phdpresub](http://asheshwor.github.io/phdpresub/#/)
 
-View slides pdf: [asheshwor.github.io/anu2015?print-pdf](http://asheshwor.github.io/anu2015?print-pdf)
+View slides pdf: [asheshwor.github.io/phdpresub?print-pdf](http://asheshwor.github.io/phdpresub?print-pdf)
 
 Recommended browsers: Chrome, Safari, Firefox, Opera and IE10
 
